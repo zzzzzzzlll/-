@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 1. 注册账号[](id:step1)
+通过腾讯云官网 [注册](https://cloud.tencent.com/register?s_url=https%3A%2F%2Fcloud.tencent.com%2F%3FfromSource%3Dgwzcw.181003.181003.181003%26gclid%3DEAIaIQobChMIsfGko-Pu1QIVBAUqCh30AQM6EAAYASAAEgIig_D_BwE) 腾讯云账号并 [登录](https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2F%3FfromSource%3Dgwzcw.181003.181003.181003%26gclid%3DEAIaIQobChMIsfGko-Pu1QIVBAUqCh30AQM6EAAYASAAEgIig_D_BwE)。如果已有账号请直接 [登录](https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2F%3FfromSource%3Dgwzcw.181003.181003.181003%26gclid%3DEAIaIQobChMIsfGko-Pu1QIVBAUqCh30AQM6EAAYASAAEgIig_D_BwE)。
 
-You can use the [editor on GitHub](https://github.com/zzzzzzzlll/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 2. 购买正式版 License[](id:step2)
+在确认产品符合功能需求和业务场景后，您可以根据具体需求场景，在 [腾讯特效 SDK 购买页](https://buy.cloud.tencent.com/vcube?type=magic) 选择并购买对应 SDK 套餐的正式版授权。购买成功之后 ，您可以继续以下步骤，在腾讯云视立方控制台完成 SDK 授权的签发和绑定。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>! 您可以先 [申请测试版 License](https://cloud.tencent.com/document/product/616/65878)，并在 [SDK 下载](https://cloud.tencent.com/document/product/616/65876) 文档中，下载 [腾讯特效S1-04 SDK](https://cloud.tencent.com/document/product/616/67043#setS) 试用产品功能。
 
-### Markdown
+## 3. 创建应用并绑定 License[](id:step3)
+正式授权购买成功后，您可以进入 [腾讯云视立方控制台](https://console.cloud.tencent.com/vcube) 创建应用并绑定 License。绑定 License 的具体流程请参见 [正式版 License](https://cloud.tencent.com/document/product/616/65879) 指引。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+>! 
+>- 腾讯特效 SDK 的 License 需要绑定一个 APP 应用的包名信息，请提前准备 iOS 的 Bundle Id 和 Andorid 的 Package Name，以便创建应用并绑定 License。
+>- 正式版 License 的包名信息提交后不允许修改，请再三核实后再提交申请。
 
-# Header 1
-## Header 2
-### Header 3
+## 4. 取得联系[](id:step4)
+在购买和绑定正式版 License 的过程中，如遇到任何问题，您可以通过 [提交工单](https://console.cloud.tencent.com/workorder/category) 或**联系商务**与我们取得联系。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzzzzzzlll/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
