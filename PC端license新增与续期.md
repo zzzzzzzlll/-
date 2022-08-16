@@ -30,7 +30,7 @@
 
 3. 提交审核申请后模块进入**公司资质审核中**，审核时间通常 1-2 个工作日。可单击**查看审核信息**查看提交的审核信息。
 ![](https://qcloudimg.tencent-cloud.cn/raw/6bdd1d0c9f4c1b0bfca934bae14cdb53.png)
-![](https://qcloudimg.tencent-cloud.cn/raw/f17677f1ca8f5893578cd76e148daefd.png)
+![](https://qcloudimg.tencent-cloud.cn/raw/36b9d21e44adf08ad7c741af21472f01.png)
 4. 审核通过后，腾讯特效功能模块状态为**正常**，腾讯特效测试版 License 申请成功，您可开始使用腾讯特效功能模块。
 ![](https://qcloudimg.tencent-cloud.cn/raw/a51f1cc8f45c3d11d42ddc63b2efbe3f.png)
 >? **若审核失败**未通过，单击**审核结果**查看审核结果和审核备注，您可根据审核备注知悉审核失败原因，单击**重新发起审核**。更改审核信息并提交，等待人工审核流程。
@@ -63,11 +63,11 @@
 新建正式应用并绑定 License
 1. 进入 [**腾讯云视立方控制台 > PC端 License **](https://console.cloud.tencent.com/vcube/pc)，单击**新建正式 License**。
 ![](https://qcloudimg.tencent-cloud.cn/raw/7d7b23dd672ea2c877eab6beb112ea47.png)
-2. 填写正式应用的 `App Name`、`Package Name` 和 `Bundle ID` 信息，勾选功能模块**腾讯特效**，单击**下一步**。
+2. 填写正式应用的 `App Name`、`WinProcess  Name` 和 `MacBundle ID` 信息，勾选功能模块**腾讯特效**，单击**下一步**。
 ![](https://qcloudimg.tencent-cloud.cn/raw/bb45ad0cfb206c394249e0277175a5a8.png)
 3. 进入选择资源项并绑定 License 界面，单击**立即绑定** ，选择**未绑定**的腾讯特效套餐包（若没有可绑定的资源包，可前往 [资源包购买页](https://buy.cloud.tencent.com/vcube?type=magic) 购买），并单击**确定**即可同时创建应用并生成正式版 License。
 ![](https://qcloudimg.tencent-cloud.cn/raw/54a6fe1e1ff8f95c2f01919b4193787e.png)
-> ?单击**确定**前需要再次确认 Bundle ID 和 Package Name 与业务使用包名信息一致，如与提交到商店的不一致，请在提交前进行修改，**正式版 License 一旦提交成功将无法再修改 License 信息**。
+> ?单击**确定**前需要再次确认 WinProcess  Name 和 MacBundle ID 与业务使用包名信息一致，如与提交到商店的不一致，请在提交前进行修改，**正式版 License 一旦提交成功将无法再修改 License 信息**。
 2. 腾讯特效功能模块状态为**正常**，腾讯特效正式版 License 申请成功，您可开始使用腾讯特效功能模块。
 ![](https://qcloudimg.tencent-cloud.cn/raw/188d696fb83471e35fbdbb51376d774c.png)
 
