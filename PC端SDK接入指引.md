@@ -8,23 +8,16 @@
 环境配置如下
 
 1. 下图说明qt插件已经安装成功
-
-![](https://qcloudimg.tencent-cloud.cn/raw/43dbf2c136561024a3716386269f835c.png)
+![](https://qcloudimg.tencent-cloud.cn/raw/9802c87be7f2a567668a2907708f7ff4.png)
 
 2. 配置qt插件版本，选择对应的QT版本
-
-![](https://qcloudimg.tencent-cloud.cn/raw/6ab9d1a152406edffda7adc5c7345a35.png)
-
-   
+![](https://qcloudimg.tencent-cloud.cn/raw/d8039c6393f957fab4038d7a5f03be3d.png)
 
 3. 配置工程依赖的QT组件
-
-![](https://qcloudimg.tencent-cloud.cn/raw/72f359809d75205a4b6a6bf9f0755711.png)
+![](https://qcloudimg.tencent-cloud.cn/raw/234df69677a51198fb59f453cb291278.png)
 
 4、添加头文件和Xmagic的dll库
-
-![](https://qcloudimg.tencent-cloud.cn/raw/fbaa2ebfc557df069aadd0e80c96b1c9.png)
-
+![](https://qcloudimg.tencent-cloud.cn/raw/08f51f856240effbc42e40547afd0b60.png)
 
 
 ## 二、接口使用说明
